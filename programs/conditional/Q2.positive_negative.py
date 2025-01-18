@@ -1,3 +1,5 @@
+# check whether the no is +ve,-ve or zero
+
 n=int(input("enter the number: "))
 if(n>0):
     print("The number is positive.")

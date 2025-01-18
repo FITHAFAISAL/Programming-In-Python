@@ -1,3 +1,5 @@
+#check whether the user input sides can form a triangle
+
 a=float(input("enter the first side: "))
 b=float(input("enter the second side: "))
 c=float(input("enter the third side: "))
