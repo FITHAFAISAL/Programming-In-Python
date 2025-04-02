@@ -1,0 +1,11 @@
+date,temperature,humidity,windSpeed,precipitationType,place,weather
+2025-03-01,30,65,12,None,New York,Sunny
+2025-03-02,28,70,14,None,Los Angeles,Cloudy
+2025-03-03,25,80,10,Rain,Chicago,Rainy
+2025-03-04,32,60,8,None,Miami,Sunny
+2025-03-05,26,75,15,None,Seattle,Cloudy
+2025-03-06,27,68,11,None,Boston,Sunny
+2025-03-07,22,85,9,Rain,Houston,Rainy
+2025-03-08,29,72,13,None,San Francisco,Cloudy
+2025-03-09,31,66,10,None,Las Vegas,Sunny
+2025-03-10,24,78,12,Rain,Denver,Rainy
